@@ -2,7 +2,6 @@
 ngspice working with the following additional apps from the google play store:
 terminal-emulator, octave, droidplot and terminal-ide.
 
-
 ## 1) Description:
 
 This is an Android port of ngspice, named "angspice" with a few slight changes
@@ -17,4 +16,4 @@ functionality has not been tested...).
     b) Install terminal emlator from the google play store. This is needed to install octave and droidplot.
     c) Install octave from the google play store.
     d) Install droidplot (gnuplot) from the google play store.
-    e) Run the angspice_install.sh script.
+    e) Run the install.sh script.
